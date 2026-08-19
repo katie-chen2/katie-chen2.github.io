@@ -6,11 +6,11 @@ styles: true
 @import "alembic";
 
 .publication-item {
-  display: flex;
+  display: inline-flex;
   flex-wrap: wrap;
   align-items: center;
   gap: 0.35rem 0.75rem;
-  margin: 0.2rem 0;
+  margin: 0;
 }
 
 .publication-title,
@@ -28,4 +28,8 @@ styles: true
 
 .publication-links a {
   display: inline-block;
+}
+
+li .publication-item {
+  display: inline-flex;
 }
