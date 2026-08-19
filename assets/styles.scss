@@ -5,24 +5,27 @@ styles: true
 
 @import "alembic";
 
-.publication-title,
-.publication-authors,
-.publication-links {
-  display: inline;
+.publication-item {
+  display: block;
+  margin-bottom: 0.75rem;
 }
 
 .publication-title {
+  display: block;
   font-weight: 600;
+  margin-bottom: 0.2rem;
 }
 
 .publication-authors {
+  display: block;
   color: #5a5a5a;
+  margin-bottom: 0.4rem;
 }
 
 .publication-links {
-  display: inline-flex;
-  align-items: center;
+  display: flex;
   flex-wrap: nowrap;
+  align-items: center;
   gap: 0.35rem;
   white-space: nowrap;
 }
