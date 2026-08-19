@@ -1,5 +1,5 @@
 ---
-title: About me
+title: Weiyuan Chen's homepage
 feature_text: |
   ## Weiyuan Chen
   Striving to produce high-quality research and also keep an open mind for critical ideas and collaboration.
@@ -7,7 +7,12 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Homepage of Weiyuan Chen, PhD student in Computer Science at Virginia Tech."
 ---
 
-My name is Weiyuan Chen. I am a second year PhD student researching advanced reasoning methods in LLMs advised by [Prof. Tu Vu](https://tuvllms.github.io/). Previously I achieved a Bachelor's degree in Computer Science at Zhejiang University. I'm fortunate to have worked with [Prof. Arman Cohan](https://armancohan.com/), and [Prof. Ningyu Zhang](https://x.com/zxlzr?lang=en).
+<div class="profile-block">
+  <img class="profile-photo" src="/assets/profile.jpg" alt="Weiyuan Chen" />
+  <div class="profile-text">
+    My name is Weiyuan Chen. I am a second year PhD student researching advanced reasoning methods in LLMs advised by [Prof. Tu Vu](https://tuvllms.github.io/). Previously I achieved a Bachelor's degree in Computer Science at Zhejiang University. I'm fortunate to have worked with [Prof. Arman Cohan](https://armancohan.com/), and [Prof. Ningyu Zhang](https://x.com/zxlzr?lang=en).
+  </div>
+</div>
 
 {% include button.html text="Github" icon="github" link="https://github.com/katie-chen2" color="#0366d6" %} {% include button.html text="LinkedIn ☕️" link="https://www.linkedin.com/in/weiyuan-chen-273b03388/" color="#f68140" %} {% include button.html text="X" icon="twitter" link="https://x.com/WeiyuanChen01" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
