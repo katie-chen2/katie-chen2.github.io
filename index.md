@@ -13,8 +13,7 @@ My name is Weiyuan Chen. I am a second year PhD student researching advanced rea
 
 ## Highlighed Publications
 
-- 
-{% include publication-item.html
+- {% include publication-item.html
   title="AbGen: Evaluating Large Language Models in Ablation Study Design and Evaluation for Scientific Research"
   url="https://arxiv.org/abs/2603.02479"
   authors="Rituraj Sharma, <strong>Weiyuan Chen</strong>, Noah Provenzano, Tu Vu"
@@ -23,8 +22,7 @@ My name is Weiyuan Chen. I am a second year PhD student researching advanced rea
   code_url="https://github.com/Rituraj003/PRISM/"
 %}
 
-- 
-{% include publication-item.html
+- {% include publication-item.html
   title="AbGen: Evaluating Large Language Models in Ablation Study Design and Evaluation for Scientific Research"
   url="https://aclanthology.org/2025.acl-long.611/"
   authors="Yilun Zhao, <strong>Weiyuan Chen</strong>, Zhijian Xu, Manasi Patwardan, Chengye Wang, Yixin Liu, Lovekesh Vig, Arman Cohan"

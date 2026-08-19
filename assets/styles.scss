@@ -4,3 +4,28 @@ styles: true
 ---
 
 @import "alembic";
+
+.publication-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem 0.75rem;
+  margin: 0.2rem 0;
+}
+
+.publication-title,
+.publication-authors,
+.publication-links {
+  display: inline;
+}
+
+.publication-links {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.publication-links a {
+  display: inline-block;
+}
