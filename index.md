@@ -13,7 +13,16 @@ My name is Weiyuan Chen. I am a second year PhD student researching advanced rea
 
 ## Highlighed Publications
 
-{% include publication-item.html
+- {% include publication-item.html
+  title="AbGen: Evaluating Large Language Models in Ablation Study Design and Evaluation for Scientific Research"
+  url="https://arxiv.org/abs/2603.02479"
+  authors="Rituraj Sharma, <strong>Weiyuan Chen</strong>, Noah Provenzano, Tu Vu"
+  paper_url="https://arxiv.org/abs/2603.02479"
+  huggingface_url="https://huggingface.co/papers/2603.02479"
+  code_url="https://github.com/Rituraj003/PRISM/"
+%}
+
+- {% include publication-item.html
   title="AbGen: Evaluating Large Language Models in Ablation Study Design and Evaluation for Scientific Research"
   url="https://aclanthology.org/2025.acl-long.611/"
   authors="Yilun Zhao, <strong>Weiyuan Chen</strong>, Zhijian Xu, Manasi Patwardan, Chengye Wang, Yixin Liu, Lovekesh Vig, Arman Cohan"
@@ -21,11 +30,6 @@ My name is Weiyuan Chen. I am a second year PhD student researching advanced rea
   huggingface_url="https://huggingface.co/papers/2507.13300"
   code_url="https://github.com/yale-nlp/AbGen"
 %}
-
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
 
 ## Examples
 
