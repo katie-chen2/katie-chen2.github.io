@@ -1,7 +1,6 @@
 ---
-title: Weiyuan Chen's homepage
-feature_text: |
-  ## Weiyuan Chen
+title: Weiyuan Chen
+feature_text: 
   Striving to produce high-quality research and also keep an open mind for critical ideas and collaboration.
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Homepage of Weiyuan Chen, PhD student in Computer Science at Virginia Tech."
