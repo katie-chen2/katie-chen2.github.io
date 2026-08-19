@@ -1,11 +1,7 @@
-<span class="publication-item">
-  <span class="publication-title">
-    <a href="{{ include.url }}">{{ include.title }}</a>
-  </span>
-  <span class="publication-authors">{{ include.authors }}</span>
-  <span class="publication-links">
-    {% include button.html text="Paper" link=include.paper_url color="#0366d6" %}
-    {% include button.html text="Huggingface" link=include.huggingface_url color="#0366d6" %}
-    {% include button.html text="Code" link=include.code_url color="#0366d6" %}
-  </span>
+<a class="publication-title" href="{{ include.url }}">{{ include.title }}</a>
+<span class="publication-authors">{{ include.authors }}</span>
+<span class="publication-links">
+  {% include button.html text="Paper" link=include.paper_url color="#0366d6" %}
+  {% include button.html text="Huggingface" link=include.huggingface_url color="#0366d6" %}
+  {% include button.html text="Code" link=include.code_url color="#0366d6" %}
 </span>

@@ -5,31 +5,34 @@ styles: true
 
 @import "alembic";
 
-.publication-item {
-  display: inline-flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 0.35rem 0.75rem;
-  margin: 0;
-}
-
 .publication-title,
 .publication-authors,
 .publication-links {
   display: inline;
 }
 
+.publication-title {
+  font-weight: 600;
+}
+
+.publication-authors {
+  color: #5a5a5a;
+}
+
 .publication-links {
   display: inline-flex;
   align-items: center;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 0.35rem;
+  white-space: nowrap;
 }
 
 .publication-links a {
   display: inline-block;
+  white-space: nowrap;
 }
 
-li .publication-item {
-  display: inline-flex;
+li {
+  list-style: none;
+  margin-bottom: 0.75rem;
 }

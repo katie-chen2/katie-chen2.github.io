@@ -9,7 +9,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 My name is Weiyuan Chen. I am a second year PhD student researching advanced reasoning methods in LLMs advised by Prof. Tu Vu. Previously I achieved a Bachelor's degree in Computer Science at Zhejiang University. I'm fortunate to have worked with Prof. Arman Cohan, and Prof. Ningyu Zhang.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="Github" icon="github" link="https://github.com/katie-chen2" color="#0366d6" %} {% include button.html text="LinkedIn ☕️" link="https://www.linkedin.com/in/weiyuan-chen-273b03388/" color="#f68140" %} {% include button.html text="X" icon="twitter" link="https://x.com/WeiyuanChen01" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
 ## Highlighed Publications
 
