@@ -19,7 +19,3 @@ aside: true
 <p class="resume-actions">
   <a href="{{ '/assets/resume.pdf' | relative_url }}">Download the PDF version</a>
 </p>
-
-<p class="resume-actions">
-  Put the exported resume PDF at <code>/assets/resume.pdf</code> so the embed and download links work.
-</p>
