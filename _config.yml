@@ -96,10 +96,10 @@ lang: en-GB # Set the site language
 title: "Weiyuan Chen's homepage" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Homepage of Weiyuan Chen, PhD student in Computer Science at Virginia Tech." # Site description and default description, also used in jekyll-seo-tag
-url: "https://weiyuan-chen.com" # Site url, also used in jekyll-seo-tag
+url: "https://katie-chen2.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/katie-chen2"
-email: "weiyuanchen@vt.edu"
+email: "cweiyuan9@vt.edu"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -139,10 +139,10 @@ navigation_footer:
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  Twitter: https://x.com/WeiyuanChen01
+  LinkedIn: https://www.linkedin.com/in/weiyuan-chen-273b03388/
+  GitHub: https://github.com/katie-chen2
+  link: https://weiyuan-chen.com
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
