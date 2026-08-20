@@ -127,6 +127,23 @@ styles: true
   font-weight: 600;
 }
 
+.resume-embed {
+  margin: 1.5rem 0 0.75rem;
+}
+
+.resume-embed object {
+  width: 100%;
+  height: min(80vh, 1100px);
+  min-height: 720px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 12px;
+  background: #fff;
+}
+
+.resume-actions {
+  margin-top: 0.75rem;
+}
+
 li {
   list-style: none;
   margin-bottom: 0.75rem;
