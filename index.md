@@ -8,7 +8,7 @@ excerpt: "Homepage of Weiyuan Chen, PhD student in Computer Science at Virginia 
 
 - My name is Weiyuan Chen. I am a second year PhD student researching advanced reasoning methods in LLMs advised by [Prof. Tu Vu](https://tuvllms.github.io/). Previously I achieved a Bachelor's degree in Computer Science at Zhejiang University. I'm fortunate to have worked with [Prof. Arman Cohan](https://armancohan.com/), and [Prof. Ningyu Zhang](https://x.com/zxlzr?lang=en).
 
-{% include button.html text="Github" icon="github" link="https://github.com/katie-chen2" color="#0366d6" %} {% include button.html text="LinkedIn ☕️" link="https://www.linkedin.com/in/weiyuan-chen-273b03388/" color="#f68140" %} {% include button.html text="X" icon="twitter" link="https://x.com/WeiyuanChen01" color="#0d94e7" %} {% include button.html text="Google Scholar ⚗️" link="https://scholar.google.com/citations?user=gDL9FgEAAAAJ&hl=en" %} 
+{% include button.html text="Github" icon="github" link="https://github.com/katie-chen2" color="#0366d6" %} {% include button.html text="LinkedIn ☕️" icon="linkedin" link="https://www.linkedin.com/in/weiyuan-chen-273b03388/" color="#f68140" %} {% include button.html text="X" icon="twitter" link="https://x.com/WeiyuanChen01" color="#0d94e7" %} {% include button.html text="Google Scholar ⚗️" icon="scholar" link="https://scholar.google.com/citations?user=gDL9FgEAAAAJ&hl=en" %} 
 
 ## Recent News
 - <span class="news-date">Aug, 2025.</span> Joined Virginia Tech as a Computer Science PhD student.
