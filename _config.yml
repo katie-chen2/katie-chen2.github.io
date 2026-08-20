@@ -125,10 +125,10 @@ navigation_header:
   url: /
 - title: Resume
   url: /resume/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
+# - title: Blog
+#   url: /blog/
+# - title: Categories
+#   url: /categories/
 - title: Search
   url: /search/
 - title: Fork Alembic
