@@ -19,7 +19,7 @@ excerpt: "Homepage of Weiyuan Chen, PhD student in Computer Science at Virginia 
 {% include publication-item.html
   title="Prism: Pushing the Frontier of Deep Think via Process Reward Model-Guided Inference"
   url="https://arxiv.org/abs/2603.02479"
-  authors="Rituraj Sharma, <strong>Weiyuan Chen</strong>, Noah Provenzano, Tu Vu"
+  authors="Rituraj Sharma*, <strong>Weiyuan Chen*</strong>, Noah Provenzano, Tu Vu"
   paper_url="https://arxiv.org/abs/2603.02479"
   huggingface_url="https://huggingface.co/papers/2603.02479"
   code_url="https://github.com/Rituraj003/PRISM/"
@@ -28,7 +28,7 @@ excerpt: "Homepage of Weiyuan Chen, PhD student in Computer Science at Virginia 
 {% include publication-item.html
   title="AbGen: Evaluating Large Language Models in Ablation Study Design and Evaluation for Scientific Research"
   url="https://aclanthology.org/2025.acl-long.611/"
-  authors="Yilun Zhao, <strong>Weiyuan Chen</strong>, Zhijian Xu, Manasi Patwardan, Chengye Wang, Yixin Liu, Lovekesh Vig, Arman Cohan"
+  authors="Yilun Zhao*, <strong>Weiyuan Chen*</strong>, Zhijian Xu, Manasi Patwardan, Chengye Wang, Yixin Liu, Lovekesh Vig, Arman Cohan"
   paper_url="https://aclanthology.org/2025.acl-long.611/"
   huggingface_url="https://huggingface.co/papers/2507.13300"
   code_url="https://github.com/yale-nlp/AbGen"
